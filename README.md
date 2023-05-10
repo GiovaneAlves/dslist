@@ -32,6 +32,7 @@ Foram feito consultas no banco H2 e também pela API Postman.
 - __Postman:__ é uma ferramenta de teste de API que permite testar, documentar e compartilhar APIs. Ele fornece uma interface gráfica de usuário para enviar solicitações HTTP e verificar as respostas, além de permitir que os desenvolvedores documentem e compartilhem as APIs com outras pessoas.
 
 - __Docker:__ é uma plataforma de software que permite criar, implantar e executar aplicativos em contêineres de software. Ele fornece uma maneira de empacotar um aplicativo e suas dependências em um contêiner, garantindo a portabilidade do aplicativo em diferentes ambientes. Ele também permite que vários aplicativos compartilhem um mesmo sistema operacional, reduzindo o consumo de recursos e melhorando a eficiência.
-<br><br><br>
+<br><br>
+
 ![Requisição dto](image/Requisi%C3%A7%C3%A3o.png)
 

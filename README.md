@@ -1,6 +1,6 @@
 # DSList
 
-- __Projeto:__ Elaborar toda aplicação back-end de uma lista de games.
+- __Projeto:__ Elaborar toda aplicação back-end de um sistema de coleção de games.
 
 - __Objetivo:__ Desenvolver através do curso de Java Spring os conhecimentos da linguagem, juntamento com a utilização dos framework. 
 
@@ -33,5 +33,5 @@ Foram feito consultas no banco H2 e também pela API Postman.
 
 - __Docker:__ é uma plataforma de software que permite criar, implantar e executar aplicativos em contêineres de software. Ele fornece uma maneira de empacotar um aplicativo e suas dependências em um contêiner, garantindo a portabilidade do aplicativo em diferentes ambientes. Ele também permite que vários aplicativos compartilhem um mesmo sistema operacional, reduzindo o consumo de recursos e melhorando a eficiência.
 <br><br><br>
-![Requisição pelo Postamn](image/Requisi%C3%A7%C3%A3o.png)
+![Requisição dto](image/Requisi%C3%A7%C3%A3o.png)
 

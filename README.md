@@ -12,6 +12,12 @@ Foram feito consultas no banco H2 e também pela API Postman.
 
   - Na camada de repository, ficam os componentes responsáveis pelo acesso ao banco de dados. Eles fornecem uma interface para as operações de leitura e gravação de dados, como consulta, inserção, atualização e exclusão.
 
+- Ambientação local com o Docker compose. Procecesso de Homologação local. 
+
+- Foram feito testes no H2 e no postman. Além de uma implementação na nuvem pelo Railway, com uma esteira de CI/CD.
+
+- Endpoint especial para movimentação dos games na lista.
+
 
 ### __Ferramentas utilizadas:__
 ---
@@ -34,5 +40,9 @@ Foram feito consultas no banco H2 e também pela API Postman.
 - __Docker:__ é uma plataforma de software que permite criar, implantar e executar aplicativos em contêineres de software. Ele fornece uma maneira de empacotar um aplicativo e suas dependências em um contêiner, garantindo a portabilidade do aplicativo em diferentes ambientes. Ele também permite que vários aplicativos compartilhem um mesmo sistema operacional, reduzindo o consumo de recursos e melhorando a eficiência.
 <br><br>
 
+##### *_Requisição DTO no Postman_*
 ![Requisição dto](image/Requisi%C3%A7%C3%A3o.png)
+<br>
 
+##### *_Implementação na nuvem_*
+![Implementação na nuvem](image/Implatan%C3%A7%C3%A3%20na%20nuvem.png)
